@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-04T21:21:52 IST" name="Default suite" finished-at="2024-04-04T21:22:18 IST" duration-ms="25845">
+    <groups>
+    </groups>
+    <test started-at="2024-04-04T21:21:52 IST" name="Default test" finished-at="2024-04-04T21:22:18 IST" duration-ms="25845">
+      <class name="com.Orange.OrangeHRM">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Orange.OrangeHRM@128d2484]" started-at="2024-04-04T21:21:52 IST" name="setup" finished-at="2024-04-04T21:21:57 IST" duration-ms="4338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithInvalidData()[pri:1, instance:com.Orange.OrangeHRM@128d2484]" started-at="2024-04-04T21:21:57 IST" name="loginWithInvalidData" finished-at="2024-04-04T21:22:01 IST" duration-ms="4093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidData -->
+        <test-method signature="loginTestWthvalidData()[pri:2, instance:com.Orange.OrangeHRM@128d2484]" started-at="2024-04-04T21:22:01 IST" name="loginTestWthvalidData" finished-at="2024-04-04T21:22:02 IST" duration-ms="1252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestWthvalidData -->
+        <test-method signature="addEmployee()[pri:3, instance:com.Orange.OrangeHRM@128d2484]" started-at="2024-04-04T21:22:02 IST" name="addEmployee" finished-at="2024-04-04T21:22:18 IST" duration-ms="16124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+      </class> <!-- com.Orange.OrangeHRM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
